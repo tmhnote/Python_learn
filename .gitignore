@@ -1,3 +1,4 @@
 .idea/
 *.ipynb
-demo.py
+GA_learn/demo.py
+GA_learn/
